@@ -1,0 +1,6 @@
+[submodule "extension-proto/src/main/proto"]
+	path = extension-proto/src/main/proto
+	url = https://github.com/carthooks/extension-proto.git
+[submodule "extension-sdk/src/main/proto"]
+	path = extension-sdk/src/main/proto
+	url = https://github.com/carthooks/extension-proto.git
